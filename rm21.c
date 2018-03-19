@@ -1,4 +1,8 @@
-while(1)
+int i = 0;
+
+for(i = 0; i < 10; i++)
 {
-  printf("You fell into a bottomless pit...");
+	printf("You got bit by a snake");
 }
+
+printf("You died");
